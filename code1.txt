@@ -1,3 +1,6 @@
+i love Java
+fhfuhfihf
+GOGO
 from turtle import *
 fhfuhfihf
 shdjhdk
