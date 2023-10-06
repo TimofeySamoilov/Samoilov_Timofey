@@ -1,4 +1,4 @@
-i love Java
+i love Python!
 fhfuhfihf
 GOGO
 from turtle import *
