@@ -1,7 +1,5 @@
 i love Python!
 fhfuhfihf
 GOGO
-from turtle import *
-fhfuhfihf
-shdjhdk
+pycharm
 skchfjhkuh
